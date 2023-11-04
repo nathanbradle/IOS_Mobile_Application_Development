@@ -3,10 +3,10 @@
 This repository serves as a collection of homework assignments completed throughout the IOS Mobile Application Development course. Each assignment is designed to build upon the skills necessary for developing mobile applications on the iOS platform.
 
 ## Table of Contents
-- [HW1: Storyboard Constraints](#Homework/hw1-storyboard-constraints)
-- [HW2: Data Display in Table](#Homework/hw2-data-display-in-table)
-- [HW3: Live API Data](#Homework/hw3-live-api-data)
-- [HW4: Map Overlay](#Homework/hw4-map-overlay)
+- [HW1: Storyboard Constraints](#hw1-storyboard-constraints)
+- [HW2: Data Display in Table](#hw2-data-display-in-table)
+- [HW3: Live API Data](#hw3-live-api-data)
+- [HW4: Map Overlay](#hw4-map-overlay)
 
 ---
 
