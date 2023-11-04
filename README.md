@@ -11,7 +11,7 @@ This repository serves as a collection of homework assignments completed through
 ---
 
 ## HW1: Storyboard Constraints
-**Directory:** `hw1-storyboard-constraints`
+**Directory:** `Homework/hw1-storyboard-constraints`
 
 ### Description
 In this assignment, we explored the use of storyboards in Xcode to design user interfaces. The task was to create a responsive layout using Auto Layout constraints, ensuring that the UI is adaptable to various screen sizes and orientations.
@@ -25,7 +25,7 @@ In this assignment, we explored the use of storyboards in Xcode to design user i
 ---
 
 ## HW2: Data Display in Table
-**Directory:** `hw2-datadisplayintable`
+**Directory:** `Homework/hw2-datadisplayintable`
 
 ### Description
 The second homework assignment involved creating a table-based layout to display a list of data. We delved into UITableViewController and learned how to populate table views with dynamic data.
@@ -39,7 +39,7 @@ The second homework assignment involved creating a table-based layout to display
 ---
 
 ## HW3: Live API Data
-**Directory:** `hw3-liveapidata`
+**Directory:** `Homework/hw3-liveapidata`
 
 ### Description
 This assignment required us to fetch and integrate live data from an API. We implemented networking calls to retrieve data and processed JSON to display it within our app.
@@ -53,7 +53,7 @@ This assignment required us to fetch and integrate live data from an API. We imp
 ---
 
 ## HW4: Map Overlay
-**Directory:** `hw4-mapoverlay`
+**Directory:** `Homework/hw4-mapoverlay`
 
 ### Description
 In our fourth homework, we focused on integrating maps into our application. We added overlays to the maps and handled user interaction with the map elements.
